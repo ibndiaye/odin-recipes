@@ -1,0 +1,24 @@
+/* Jollof Rice page */
+#jollof-rice {
+    width: 600px;
+    height: auto;
+}
+
+#jollof-title {
+    background-color: green;
+    color: white;
+}
+
+h2 {
+    background-color: red;
+    color: white;
+}
+
+.steps p {
+    color: orange;
+    background-color: black;
+}
+
+.steps h3{
+    color: blue;
+}
