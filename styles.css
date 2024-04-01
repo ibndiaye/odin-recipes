@@ -22,3 +22,22 @@ h2 {
 .steps h3{
     color: blue;
 }
+
+/* Lasanga page */
+#lasagna-title {
+    background-color: brown;
+    color: white;
+}
+
+.description p{
+    background-color: aqua;
+    color: black;
+}
+
+li {
+    color: blueviolet;
+}
+
+p strong {
+    color: green;
+}
